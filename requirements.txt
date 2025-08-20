@@ -1,0 +1,18 @@
+# 核心计算
+torch>=2.1
+numpy>=1.24.0
+pandas>=2.0.0
+
+
+# 训练辅助
+loguru>=0.7.2
+tqdm>=4.66.0
+
+
+# 数据下载/工具
+requests>=2.31.0
+pyyaml>=6.0.1
+
+
+# 可选：结果可视化
+matplotlib>=3.7.0
